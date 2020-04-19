@@ -71,11 +71,7 @@ export default function Problem() {
         if (window.confirm('Deseja mesmo cancelar este item?')) {
           await api.delete(`/problem/${id}/cancel-order`);
           toast.success('Encomenda cancelada com sucesso.');
-          if (problems.length > 1) {
-            loadData(description, page);
-          } else {
-            setPage(page > 1 ? page - 1 : 1);
-          }
+          loadData(description, page);
         }
       } catch (error) {
         toast.error('Erro ao cancelar encomenda.');
