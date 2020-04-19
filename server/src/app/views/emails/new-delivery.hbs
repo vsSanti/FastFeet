@@ -1,0 +1,21 @@
+<strong>Olá, {{ deliveryman }}</strong>
+<p>Há uma nova entrega cadastrada para você, mais informações abaixo:</p>
+<p>
+  <strong>Produto: </strong> {{ product }} <br />
+  <strong>Data de criação: </strong> {{ createdAt }} <br />
+  <hr />
+  <strong>Endereço</strong>
+  <hr />
+  <strong>Rua: </strong> {{ recipient.street }} <br />
+  <strong>Número: </strong> {{ recipient.number }} <br />
+  {{#if recipient.complement}}
+    <strong>Complemento: </strong> {{ recipient.complement }} <br />
+  {{/if}}
+  <strong>CEP: </strong> {{ recipient.zip_code }} <br />
+  <strong>Cidade: </strong> {{ recipient.city }} <br />
+  <strong>Estado: </strong> {{ recipient.state }} <br />
+  <br />
+  <small>
+    Para entregar essa encomenda, busque-a entre às 08:00 e 18:00
+  </small>
+</p>

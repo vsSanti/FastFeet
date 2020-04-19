@@ -1,0 +1,33 @@
+<strong>Olá, {{ deliveryman }}</strong>
+<p>Uma entrega sua foi cancelada, mais informações abaixo:</p>
+<p>
+  <hr />
+  <strong>Encomenda: </strong> {{ deliveryId }} <br />
+  <strong>Produto: </strong> {{ product }} <br />
+  <strong>Data de cancelamento: </strong> {{ canceledAt }} <br />
+
+  <hr />
+  <strong>Problemas encontrados</strong>
+
+  <ul>
+    {{#each problems}}
+      <li>{{this.description}}</li>
+    {{/each}}
+  </ul>
+
+  <hr />
+  <strong>Endereço</strong> <br />
+
+  <strong>Rua: </strong> {{ recipient.street }} <br />
+  <strong>Número: </strong> {{ recipient.number }} <br />
+  {{#if recipient.complement}}
+    <strong>Complemento: </strong> {{ recipient.complement }} <br />
+  {{/if}}
+  <strong>CEP: </strong> {{ recipient.zip_code }} <br />
+  <strong>Cidade: </strong> {{ recipient.city }} <br />
+  <strong>Estado: </strong> {{ recipient.state }} <br />
+  <br />
+  <small>
+    Para entregar essa encomenda, busque-a entre às 08:00 e 18:00
+  </small>
+</p>
