@@ -21,13 +21,11 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
+- [Express](https://github.com/expressjs/express)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Redis](https://redis.io/)
 - [ReactJS](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [MongoDB](https://www.mongodb.com/)
-- [Express](https://github.com/expressjs/express)
-- [Redis](https://redis.io/)
-- [Bee-Queue](https://github.com/bee-queue/bee-queue)
 
 ## :computer: Instalação, execução e desenvolvimento
 
