@@ -35,11 +35,7 @@ A versão mobile do projeto FastFeet representa a visão do entregador, ou seja,
 
 ## 🎨 Layout
 
-O layout do desafio está em anexo como um arquivo `.xd`.
-
-Caso esteja usando OS X / Windows você pode abrir esse utilizando o Adobe Xd.
-
-Caso contrário, você pode utilizar a seguinte URL para visualizar todas as telas: [Visualizar](https://xd.adobe.com/view/a5d56d7d-c1d4-48a8-70ce-8b77f5f417a5-d3e4/grid).
+O layout do desafio está disponível através desse [link](https://xd.adobe.com/view/a5d56d7d-c1d4-48a8-70ce-8b77f5f417a5-d3e4/grid).
 
 ---
 

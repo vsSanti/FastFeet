@@ -53,11 +53,7 @@ Antes de iniciar a parte web, **adicione as seguintes funcionalidades no back-en
 
 ## 🎨 Layout
 
-O layout do desafio está em anexo como um arquivo `.xd`.
-
-Caso esteja usando OS X / Windows você pode abrir esse utilizando o Adobe Xd.
-
-Caso contrário, você pode utilizar a seguinte URL para visualizar todas as telas: [Visualizar](https://xd.adobe.com/view/62e829fc-4f10-4ac8-70d2-d39b429d43ee-14d9/grid/)
+O layout do desafio está disponível através desse [link](https://xd.adobe.com/view/62e829fc-4f10-4ac8-70d2-d39b429d43ee-14d9/grid/).
 
 ---
 

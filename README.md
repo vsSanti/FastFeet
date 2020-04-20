@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="FastFeet" height="215" title="FastFeet" src=".github/logo.svg" />
+  <img alt="FastFeet" height="215" title="FastFeet" src="logo.svg" />
 </h1>
 
 <p align="center">Este codigo representa a minha solução do desafio do Bootcamp GoStack 10.0</p>
@@ -74,7 +74,7 @@ _ps: Antes de executar, lembre-se de iniciar o backend deste projeto_
 
 ---
 
-Feito com 💜 by [Vinícius Santiago](https://github.com/vsSanti)
+Feito com 💜 by [Vinícius Santiago](https://www.linkedin.com/in/viniciussdsilva/)
 
 ---
 
