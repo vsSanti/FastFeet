@@ -33,8 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Clonar o projeto](https://github.com/vsSanti/FastFeet);
 - Ter [Node.js](https://nodejs.org/en/) instalado;
-- Ter [PostgreSQL](https://www.postgresql.org/) instalado;
-- Ter [Redis](https://redis.io/) instalado.
+- Ter [Yarn](https://yarnpkg.com/) instalado;
+- Ter [PostgreSQL](https://www.postgresql.org/) instalado e rodando;
+- Ter [Redis](https://redis.io/) instalado e rodando.
 
 ### Backend
 
