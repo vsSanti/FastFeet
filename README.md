@@ -6,7 +6,7 @@
 
 <p align="center">
  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- <a href="#computer-instalação-execução-e-desenvolvimento">Instalação, execução e desenvolvimento</a>
+ <a href="#computer-instalação-e-execução">Instalação e execução</a>
 </p>
 
 <strong>Links dos desafios:</strong>
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [ReactJS](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
 
-## :computer: Instalação, execução e desenvolvimento
+## :computer: Instalação e execução
 
 ### Pré-requisitos
 
