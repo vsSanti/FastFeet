@@ -21,23 +21,20 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [MongoDB](https://www.mongodb.com/)
 - [Express](https://github.com/expressjs/express)
+- [PostgreSQL](https://www.postgresql.org/)
 - [Redis](https://redis.io/)
-- [Bee-Queue](https://github.com/bee-queue/bee-queue)
+- [ReactJS](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
 
 ## :computer: Instalação, execução e desenvolvimento
 
 ### Pré-requisitos
 
-- [Node.js](https://nodejs.org/en/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Redis](https://redis.io/)
-- [Clonar o projeto](https://github.com/vsSanti/FastFeet)
-
-**Faça um clone desse repositório**
+- [Clonar o projeto](https://github.com/vsSanti/FastFeet);
+- Ter [Node.js](https://nodejs.org/en/) instalado;
+- Ter [PostgreSQL](https://www.postgresql.org/) instalado;
+- Ter [Redis](https://redis.io/) instalado.
 
 ### Backend
 
