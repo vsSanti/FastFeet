@@ -33,12 +33,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Pré-requisitos
 
-- [Node.js](https://nodejs.org/en/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Redis](https://redis.io/)
-- [Clonar o projeto](https://github.com/vsSanti/FastFeet)
-
-**Faça um clone desse repositório**
+- [Clonar o projeto](https://github.com/vsSanti/FastFeet);
+- Ter [Node.js](https://nodejs.org/en/) instalado;
+- Ter [PostgreSQL](https://www.postgresql.org/) instalado;
+- Ter [Redis](https://redis.io/) instalado.
 
 ### Backend
 
